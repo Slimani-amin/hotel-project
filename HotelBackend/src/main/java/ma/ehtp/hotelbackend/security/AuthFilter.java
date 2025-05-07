@@ -1,4 +1,4 @@
-package com.example.HotelBooking.security;
+package ma.ehtp.hotelbackend.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

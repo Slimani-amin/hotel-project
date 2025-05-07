@@ -1,4 +1,4 @@
-package com.example.HotelBooking.security;
+package ma.ehtp.hotelbackend.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

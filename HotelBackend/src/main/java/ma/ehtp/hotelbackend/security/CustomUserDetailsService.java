@@ -1,8 +1,8 @@
-package com.example.HotelBooking.security;
+package ma.ehtp.hotelbackend.security;
 
-import com.example.HotelBooking.entities.User;
-import com.example.HotelBooking.exceptions.NotFoundException;
-import com.example.HotelBooking.repositories.UserRepository;
+import ma.ehtp.hotelbackend.entities.User;
+import ma.ehtp.hotelbackend.exeptions.NotFoundException;
+import ma.ehtp.hotelbackend.respositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
