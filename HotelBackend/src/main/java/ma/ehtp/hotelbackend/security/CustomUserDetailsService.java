@@ -2,7 +2,7 @@ package ma.ehtp.hotelbackend.security;
 
 import ma.ehtp.hotelbackend.entities.User;
 import ma.ehtp.hotelbackend.exeptions.NotFoundException;
-import ma.ehtp.hotelbackend.respositories.UserRepository;
+import ma.ehtp.hotelbackend.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

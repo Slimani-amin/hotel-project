@@ -1,4 +1,4 @@
-package ma.ehtp.hotelbackend.respositories;
+package ma.ehtp.hotelbackend.repositories;
 
 import ma.ehtp.hotelbackend.entities.Booking;
 import org.springframework.data.jpa.repository.JpaRepository;

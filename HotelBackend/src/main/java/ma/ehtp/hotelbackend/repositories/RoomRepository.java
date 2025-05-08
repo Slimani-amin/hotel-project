@@ -1,4 +1,4 @@
-package ma.ehtp.hotelbackend.respositories;
+package ma.ehtp.hotelbackend.repositories;
 
 import ma.ehtp.hotelbackend.entities.Room;
 import ma.ehtp.hotelbackend.enums.RoomType;
